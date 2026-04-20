@@ -38,4 +38,5 @@ In a corporate environment, leadership needs to understand trends, distributions
 - **NumPy** (Data Synthesis)
 
 ---
+![Dashboard Preview](corporate_dashboard.png)
 *Created by Dilara Akbaş - Feel free to connect on https://www.linkedin.com/in/dilara-akba%C5%9F-b468b2300/*
